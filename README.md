@@ -1,1 +1,2 @@
 # MyDevices
+Home Assistant Server

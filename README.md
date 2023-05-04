@@ -1,6 +1,19 @@
 # MyDevices
-# Home Assistant Server
+## Home Assistant Server
 
-# Lights
+## Lights
+[light1](http://)
 
 ## Sensors
+
+## Switches
+
+## Infrared Remote Control
+
+## Bridges / Hubs
+
+## Trackers
+
+## Processors
+
+## Miscellaneous

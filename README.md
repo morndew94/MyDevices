@@ -1,2 +1,6 @@
 # MyDevices
-Home Assistant Server
+# Home Assistant Server
+
+# Lights
+
+# Sensors

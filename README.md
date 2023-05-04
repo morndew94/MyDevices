@@ -4,7 +4,7 @@
 - 2x Oracle Cloud A1 2CPU 12GB 100GB
 
 ## Lights
-- [light1](http://)
+- [Yeelight Smart Bulb](https://www.amazon.com/Equivalent-YEELIGHT-Changing-Assistant-SmartThings/dp/B09B91X2XQ)
 
 ## Sensors
 - [Awair 2nd Edition](https://www.amazon.com/Awair-2nd-Invisible-Quality-Chemicals/dp/B07F282LF4)
@@ -15,6 +15,7 @@
 - [Lenovo Smart Clock](https://www.lenovo.com/in/en/smart-clock)
 
 ## Switches
+- [Shelly Uni](https://www.shelly.cloud/en/products/shop/shelly-uni-1)
 
 ## Infrared Remote Control
 
@@ -23,5 +24,6 @@
 ## Trackers
 
 ## Processors
+- ESP32
 
 ## Miscellaneous

@@ -2,7 +2,7 @@
 ## Home Assistant Server
 
 ## Lights
-[light1](http://)
+- [light1](http://)
 
 ## Sensors
 
